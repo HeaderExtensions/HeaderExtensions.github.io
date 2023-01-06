@@ -1,0 +1,23 @@
+body {
+    background-image: url('sussy_wussy_file.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+h1 {
+    font-family: "arial";
+    text-align: center;
+    size: 5px;
+    color: lightblue;
+  }
+a {
+    font-family: "Helvetica";
+    size: 100px;
+    color: cyan;
+  }
+h2{
+    text-align: center;
+    size: 20px;
+    font-family: "Helvetica";
+    color: aquamarine;
+  }
